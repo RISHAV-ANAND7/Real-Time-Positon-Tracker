@@ -69,7 +69,7 @@ git clone https://github.com/RISHAV-ANAND7/Real-Time-Positon-Tracker.git
 Navigate to the project directory:
 
 ```
-cd REALTIME_TRACKER
+cd Real-Time-Positon-Tracker
 ```
 
 Install dependencies:
